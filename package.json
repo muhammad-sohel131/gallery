@@ -1,5 +1,6 @@
 {
-  "name": "tracker",
+  "homepage": "https://muhammad-sohel131.github.io/gallery/",
+  "name": "gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
